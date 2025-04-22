@@ -1,0 +1,72 @@
+{
+  "navbar": {
+    "logo": "Live Cell Insight",
+    "modules": "Modules",
+    "resources": "Resources",
+    "register": "Register",
+    "startTrial": "Start Free Trial"
+  },
+  "hero": {
+    "title": "Struggling with Cell Analysis?",
+    "subtitle": "Let AI guide your research. Identify patterns. Unlock new insights in cell analysis.",
+    "startTrial": "Start Free Trial",
+    "exploreModules": "Explore Modules"
+  },
+  "midSection": {
+    "title": "Transform Your Research with AI",
+    "subtitle": "Advanced analysis and image processing technologies to take your cell research to the next level.",
+    "startAnalysis": "Start Free Analysis",
+    "watchDemo": "Watch Demo"
+  },
+  "features": {
+    "title": "Powerful Features for Research Excellence",
+    "items": [
+      {
+        "title": "Advanced Image Processing",
+        "description": "AI-powered image analysis for detailed cell structure examination."
+      },
+      {
+        "title": "Real-time Analysis",
+        "description": "Instant results and live data visualization to accelerate processes."
+      },
+      {
+        "title": "Detailed Reporting",
+        "description": "Customizable reports and data export options."
+      }
+    ]
+  },
+  "transformation": {
+    "before": "Before Implementation",
+    "after": "After Implementation",
+    "items": {
+      "manual": {
+        "title": "Manual Analysis",
+        "description": "Time-consuming manual examination processes"
+      },
+      "error": {
+        "title": "Error Risk",
+        "description": "Human error probability"
+      },
+      "efficiency": {
+        "title": "Efficiency Loss",
+        "description": "Repetitive tasks and time waste"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Get Started?",
+    "subtitle": "Explore our cell analysis platform and take your research to the next level.",
+    "emailPlaceholder": "Your email address",
+    "button": "Get Started"
+  },
+  "footer": {
+    "certifications": "Certifications & Security",
+    "menu": "Menu",
+    "newsletter": "Newsletter",
+    "newsletterText": "Stay updated with the latest developments.",
+    "subscribe": "Subscribe",
+    "copyright": "© 2024 Live Cell Insight. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+} 

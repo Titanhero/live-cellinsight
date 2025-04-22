@@ -1,0 +1,72 @@
+{
+  "navbar": {
+    "logo": "Live Cell Insight",
+    "modules": "Modüller",
+    "resources": "Kaynaklar",
+    "register": "Kayıt Ol",
+    "startTrial": "Ücretsiz Deneme Başla"
+  },
+  "hero": {
+    "title": "Hücre Analizinde Zorlanıyor musunuz?",
+    "subtitle": "Yapay zeka ile araştırmanıza yön verin. Desenleri tanımlayın. Hücre analizinde yeni içgörüler keşfedin.",
+    "startTrial": "Ücretsiz Deneme Başla",
+    "exploreModules": "Modülleri Keşfet"
+  },
+  "midSection": {
+    "title": "Araştırmanızı Yapay Zeka ile Dönüştürün",
+    "subtitle": "Gelişmiş analiz ve görüntü işleme teknolojileri ile hücre araştırmanızı bir üst seviyeye taşıyın.",
+    "startAnalysis": "Ücretsiz Analiz Başlat",
+    "watchDemo": "Demo İzle"
+  },
+  "features": {
+    "title": "Araştırma Mükemmelliği için Güçlü Özellikler",
+    "items": [
+      {
+        "title": "Gelişmiş Görüntü İşleme",
+        "description": "Hücre yapılarını detaylı incelemek için yapay zeka destekli görüntü analizi."
+      },
+      {
+        "title": "Gerçek Zamanlı Analiz",
+        "description": "Süreçleri hızlandırmak için anlık sonuçlar ve canlı veri görselleştirme."
+      },
+      {
+        "title": "Detaylı Raporlama",
+        "description": "Özelleştirilebilir raporlar ve veri dışa aktarma seçenekleri."
+      }
+    ]
+  },
+  "transformation": {
+    "before": "Uygulama Öncesi",
+    "after": "Uygulama Sonrası",
+    "items": {
+      "manual": {
+        "title": "Manuel Analiz",
+        "description": "Zaman alıcı manuel inceleme süreçleri"
+      },
+      "error": {
+        "title": "Hata Riski",
+        "description": "İnsan hatası olasılığı"
+      },
+      "efficiency": {
+        "title": "Verimlilik Kaybı",
+        "description": "Tekrarlayan görevler ve zaman kaybı"
+      }
+    }
+  },
+  "cta": {
+    "title": "Başlamaya Hazır mısınız?",
+    "subtitle": "Hücre analiz platformumuzu keşfedin ve araştırmanızı bir üst seviyeye taşıyın.",
+    "emailPlaceholder": "E-posta adresiniz",
+    "button": "Hemen Başla"
+  },
+  "footer": {
+    "certifications": "Sertifikalar & Güvenlik",
+    "menu": "Menü",
+    "newsletter": "Bülten",
+    "newsletterText": "En son gelişmelerden haberdar olun.",
+    "subscribe": "Abone Ol",
+    "copyright": "© 2024 Live Cell Insight. Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları"
+  }
+} 
